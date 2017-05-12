@@ -1,2 +1,12 @@
 # project_euler
-ANswerd to the coding problems on https://projecteuler.net
+Answers to the coding problems on https://projecteuler.net
+
+
+### Installation
+
+$> cd project\_euler
+$> npm install
+
+
+### Running
+$> phantomjs js/<target-js-file>.js

@@ -1,0 +1,26 @@
+{
+  "name": "project_euler",
+  "version": "1.0.0",
+  "description": "solutions to problems on projecteuler.net",
+  "main": "problem1.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brighaus/project_euler.git"
+  },
+  "keywords": [
+    "coding",
+    "javascript"
+  ],
+  "author": "Brigham Hausman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brighaus/project_euler/issues"
+  },
+  "homepage": "https://github.com/brighaus/project_euler#readme",
+  "dependencies": {
+    "phantomjs": "^2.1.7"
+  }
+}
