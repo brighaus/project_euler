@@ -4,9 +4,9 @@ Answers to the coding problems on https://projecteuler.net
 
 ### Installation
 
-$> cd project\_euler
-$> npm install
+- $> cd project\_euler
+- $> npm install
 
 
 ### Running
-$> phantomjs js/<target-js-file>.js
+- $> phantomjs js/[target-js-file].js
